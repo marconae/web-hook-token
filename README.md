@@ -1,6 +1,6 @@
-# first-cup-obfuscator
+# web-hook-token
 
-Playground to test a concept for token to secure web hooks for a SaaS application I designed.
+Exemplary project to explore a concept for a token to secure web hooks for SaaS applications.
 
 ## Web Hook Tokens
 A Web Hook Token is a token that consists of two parts:
