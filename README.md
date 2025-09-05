@@ -1,5 +1,7 @@
 # web-hook-token
 
+![CI](https://github.com/marconae/web-hook-token/actions/workflows/ci.yml/badge.svg)
+
 Exemplary project to explore a concept for a token to secure web hooks for SaaS applications.
 
 ## Web Hook Tokens
