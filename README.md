@@ -18,7 +18,7 @@ The structure of a Web Hook Token is as follows:
 ${base64url(tokenPayload)}.${base64url(tokenSignature)}
 ```
 
-Both parts are Base64 ((URL safe, RFC4648)[https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Base64.html]) encoded and concatenated with a `. (dot).
+Both parts are Base64 ([URL safe, RFC4648](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Base64.html)) encoded and concatenated with a `. (dot).
 
 The Token Payload is structured as follows:
 ```
